@@ -1,0 +1,11 @@
+Análise de sentimentos de textos utilizando a API do Azure Cognitive Services.
+
+Configuraçãoes:
+1- Criar um Ambiente Virtual
+2- Instalar dependências
+3- Configurar Variaveis do Azure
+
+Execução:
+1- Inserir frases para analise
+2- Executar o Script 
+3- Aguarda resposta de Saida 
